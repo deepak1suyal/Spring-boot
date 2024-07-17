@@ -1,0 +1,56 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EmployApplication",
+            "request": "launch",
+            "mainClass": "com.employ.employ.EmployApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "DemoApplication",
+            "request": "launch",
+            "mainClass": "com.example.demo.DemoApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "HiberApplication",
+            "request": "launch",
+            "mainClass": "com.example.hiber.HiberApplication",
+            "projectName": "hiber"
+        },
+        {
+            "type": "java",
+            "name": "EmployApplication",
+            "request": "launch",
+            "mainClass": "com.web.employ.EmployApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "WebappApplication",
+            "request": "launch",
+            "mainClass": "com.web.webapp.WebappApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Mycontroller",
+            "request": "launch",
+            "mainClass": "org.coding.calc.Mycontroller",
+            "projectName": "calc"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CalcApplication<calc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.coding.calc.CalcApplication",
+            "projectName": "calc",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
